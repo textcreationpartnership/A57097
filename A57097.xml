@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reverend sirs, Their Majesties having been pleased a second time to hear the cry, and to pity the deplorable case of the poor Protestants of Ireland, by granting another collection for their relief</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57097</idno>
+            <idno type="STC">Wing R1193</idno>
+            <idno type="STC">ESTC R35145</idno>
+            <idno type="EEBO-CITATION">15038443</idno>
+            <idno type="OCLC">ocm 15038443</idno>
+            <idno type="VID">103088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103088)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1577:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reverend sirs, Their Majesties having been pleased a second time to hear the cry, and to pity the deplorable case of the poor Protestants of Ireland, by granting another collection for their relief</title>
+                  <author>Pilkington, Thomas, Sir, d. 1691.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 5 lines of text.</note>
+                  <note>Signed at end: Thomas Pilkington, Mayor, [and 6 others]</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"An appeal for church collections for the relief of Irish Protestants"--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:103088:1"/>
+            <opener>
+               <salute>Reverend Sirs,</salute>
+            </opener>
+            <p>THeir Majeſties having been pleaſed a ſecond time to hear the Cry, and to pity the deplorable Caſe of the poor Pro<g ref="char:EOLhyphen"/>teſtants of <hi>Ireland,</hi> by granting another Collection for their Relief. We whoſe Names are ſubſcribed being Commiſſioners, among others, appointed to ſee the Di<g ref="char:EOLhyphen"/>ſtribution thereof, think it a Duty incumbent upon us, in the firſt place, to return our hearty Thanks on their behalf, to your Selves and your Congregations, for the liberal Contributions which have been re<g ref="char:EOLhyphen"/>ceived, by which many Thouſands (as the Brief informs you) have been hitherto kept from periſhing.</p>
+            <p>And leſt a new Collection coming ſo ſoon after the former, ſhould diſ<g ref="char:EOLhyphen"/>courage any who are of Charitable Diſpoſitions, we are deſirous to give you ſome account of theſe our Brethren and Fellow-Proteſtants, by which all that are well-diſpoſed, may be provoked to ſo good a Work.</p>
+            <p>There are many of them that were of the beſt Rank and Quality, that lived in great Plenty, and enjoyed all the Conveniencies of Life, to whom it muſt be very hard to want Things abſolutely neceſſary for their Support; which yet muſt inevitably be their Caſe, without further Help and Aſſi<g ref="char:EOLhyphen"/>ſtance, till it ſhall pleaſe God to reſtore them to their Ruined Habitations, and greatly Impaired Eſtates.</p>
+            <p>And as they were Perſons of great Quality, ſo many of them were Per<g ref="char:EOLhyphen"/>ſons of great Liberality to the Neceſſitous, as appears by the generous Col<g ref="char:EOLhyphen"/>lection they made for the French Proteſtants when they fled to them for Succour; of which ſome of us have had a large account; which doth ex<g ref="char:EOLhyphen"/>ceedingly ſtrengthen our Argument for their Relief. And even ſince their Exile, many of thoſe who were able to bring over Supplies with them, have not only refuſed to partake of the former Charity, but out of their <hi>Little</hi> have given to their Brethren, reſolving (to uſe their own Expreſ<g ref="char:EOLhyphen"/>ſion) to beg together, rather than their Fellow-Sufferers ſhould want whilſt they themſelves had any thing left.</p>
+            <p>We cannot likewiſe forbear commending their grateful acceptance of ſuch ſmall Allowance as we ſhould have bluſh'd to offer, if their great Num<g ref="char:EOLhyphen"/>bers had not obliged us to it; An ordinary relief, by which they and their Families might be kept from Want, is all that they deſired, being conten<g ref="char:EOLhyphen"/>ted with meaner Fare now, than their Servants were wont to leave, and give away at their Doors.</p>
+            <p>Moſt of thoſe on whoſe behalf we intreat you to ſolicit, are Women and Children of all Ranks; ſome of them being made Widows, and their Children Fatherleſs, by the cruel uſage of the Iriſh Papiſts: Others are every Day and Hour perplexed with Fears, that they ſhall hear of the Death of their dear Relations, who are left behind in Priſons, or expoſed to great Dangers among their Bloody Enemies: And if amidſt theſe Sor<g ref="char:EOLhyphen"/>rows we ſhould ſuffer them to want neceſſary Supports in our Land, where (God be praiſed) there is Bread enough, and to ſpare, we ſhould be more cruel to them, than thoſe that would have prevented a lingering Death.</p>
+            <p>
+               <pb n="2" facs="tcp:103088:2" rendition="simple:additions"/>You know the Calamities that have befallen them, were intended for us; the Cloud gathered Blackneſs over our Heads, but it was the plea<g ref="char:EOLhyphen"/>ſure of God to permit that it ſhould break with a mighty Tempeſt upon them, which doubtleſs was for the trial of our Charity, as well as of their Faith and Patience. We cannot forget what a Conſternation ſeiſed upon many, when the rumour of a ſmall Army of their, and our inſult<g ref="char:EOLhyphen"/>ing Enemies, were come among us, we thought our ſelves then in ſome danger of loſing all our Poſſeſſions; and ſhall not we give ſome part of our Subſtance to them who have ſuffered the Calamity we feared?</p>
+            <p>We know very well, that there are many Complaints at this Time, by which Charity is obſtructed; but if thoſe Perſons were ſenſible of the Condition of theſe our Brethren, and beheld the Tears and dejected Coun<g ref="char:EOLhyphen"/>tenances with which ſome of us are too well acquainted, they would not only commiſerate their preſent Condition, but contrive how they might become moſt liberal to ſuch Sufferers. We hope therefore you will be very urgent with your People, by ſuch Arguments, and in ſuch way, as to your Wiſdom ſhall ſeem beſt; foraſmuch as your Charity on this Occaſion is but a juſt Debt of Thankfulneſs to that God who hath preſerved them, and all of us; and that if we give not to theſe our diſtreſſed Brethren, we have little reaſon to hope that our Tranquillity ſhould be lengthned.</p>
+            <p>We likewiſe intreat you to haſten the Collections, the former Charity being already exhauſted; and we are forced to borrow conſiderable Sums of Mony, that theſe poor Chriſtians might not periſh before a new Relief can come to them by the Brief.</p>
+            <p>You may be well aſſured, that your former Charity was impartially diſtri<g ref="char:EOLhyphen"/>buted, and that the like care will be taken for the future, and a juſt Account kept of all Receipts and Disburſments, for the view of ſuch as ſhall deſire to inſpect the ſame.</p>
+            <p>That the God of Heaven may ſo direct you in your Application to your People, that you may effectually perſwade them to be ready to give, and not weary of well-doing, is the hearty Prayer of,</p>
+            <closer>
+               <salute>SIRS,</salute>
+               <signed>Your Friends,
+<list>
+                     <item>
+                        <hi>Thomas Pilkington,</hi> Mayor.</item>
+                     <item>
+                        <hi>Robert Clayton.</hi>
+                     </item>
+                     <item>
+                        <hi>Patient Ward.</hi>
+                     </item>
+                     <item>
+                        <hi>William Aſhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lane.</hi>
+                     </item>
+                     <item>
+                        <hi>William Turner.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Firmin.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
